@@ -1,0 +1,5 @@
+numpy>=1.24
+torch>=2.2
+gymnasium[mujoco]>=1.0.0
+minari[all]>=0.5.3
+tqdm>=4.66

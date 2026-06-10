@@ -14,7 +14,7 @@ set -euo pipefail
   --n_head 8 \
   --n_embd 256 \
   --batch_size 128 \
-  --epochs 10 \
+  --epochs 5 \
   --num_workers 0 \
   --device mps \
   --out_dir runs/halfcheetah_20ep
